@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.60.5",
+    "react-native-maps": "github:react-native-community/react-native-maps.git#0f35b5da97d9367fd5496ae410314072f8c646c7"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
